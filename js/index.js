@@ -31,5 +31,5 @@ function moveback() {
   let lefthead=document.querySelector('.left-head');
   lefthead.innerHTML='One of us?';
   let leftp=document.querySelector('.left-p');
-  leftp.innerHTML='Sign up and discover great amount of new opportunities';
+  leftp.innerHTML='If you already have an account just sign in. We missed you!';
 }
