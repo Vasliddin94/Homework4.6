@@ -69,6 +69,7 @@
   border: 2px solid #fff;
   border-radius:25px;
   padding: 5px 17px;
+  transition: 1s;
 };
 
 
