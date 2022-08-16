@@ -100,6 +100,7 @@
   background-color: #2e2e;
   margin-bottom: 0px;
   font-weight: 500;
+  transition: 1s;
 }
 
 .right button:first-of-type{
